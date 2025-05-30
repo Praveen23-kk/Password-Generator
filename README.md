@@ -8,7 +8,12 @@
 
 ---
 
-## 📂 Project Structure 
+## 📂  Project Description
+Password Generator Web App is a secure and user-friendly web application built using the Django framework. It allows users to generate strong, customizable passwords instantly. This tool is ideal for anyone who needs to create secure passwords for personal accounts, enterprise applications, or development purposes.
+
+Users can choose specific criteria such as the length of the password, inclusion of uppercase letters, lowercase letters, numbers, and special characters to tailor the password to their needs. The app ensures randomness and complexity, making the generated passwords difficult to guess or crack.
+
+This project demonstrates full-stack development using Django, including backend logic, frontend templates, and database integration with SQLite.
 
 ---
 
