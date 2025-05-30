@@ -8,9 +8,7 @@
 
 ---
 
-## 📂 Project Structure Screenshot
-
-![Project Directory](./d8948e71-38a1-4146-9347-fb0f693e690b.png)
+## 📂 Project Structure 
 
 ---
 
